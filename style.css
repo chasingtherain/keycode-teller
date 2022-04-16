@@ -1,0 +1,23 @@
+body{
+    background-color: aqua;    
+}
+
+.key,
+.key-code{
+    text-align: center;
+    /* border:1px solid black; */
+}
+
+.key{
+    font-size: 80px;
+    margin: 100px;
+}
+
+.key-code{
+    font-size: 150px;
+    margin: 0;
+}
+
+.header-description{
+    font-size: 40px;
+}
